@@ -1,0 +1,29 @@
+body {
+    background-image: url('./imagenes/real-estate-property-contract-8nifr6s87bqllaia.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.btn-oferta {
+    padding: 30px 50px; 
+    font-size: 50px; 
+    color: #1a1818; 
+    background-color: #b41e2dd7;
+    border: steelblue; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
